@@ -96,4 +96,5 @@ int main(){
 			cout << i << " Ban bac ra : " << bacra << ", Ban bac vao : " << bacvao << endl;
 		}
 	}
+	cout<<"Thanh Nga"; 
 }
